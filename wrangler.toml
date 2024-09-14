@@ -9,7 +9,8 @@ compatibility_flags = ["nodejs_compat"]
   bucket = "./public"
 
 [vars]
-CALLS_APP_ID = "f0ea263009299383d09d44b9fad5316c"
+CALLS_APP_ID = "078789c5757228627b0556d5fe1a3d77"
+CALLS_APP_SECRET=<5c952b1abf0f153237cf59f58c997fc1f8e64463660e343fb7c88816fae42633>
 
 [durable_objects]
  bindings = [
