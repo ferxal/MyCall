@@ -1,7 +1,7 @@
 name = "orange-meets"
 # https://developers.cloudflare.com/workers/platform/compatibility-dates
 compatibility_date = "2024-06-20"
-account_id = "a67e14daa5f8dceeb91fe5449ba496eb"
+account_id = "329d00ee2662a7504c56bae9e75d35fa"
 main = "./build/index.js"
 compatibility_flags = ["nodejs_compat"]
 
@@ -10,7 +10,6 @@ compatibility_flags = ["nodejs_compat"]
 
 [vars]
 CALLS_APP_ID = "078789c5757228627b0556d5fe1a3d77"
-CALLS_APP_SECRET=<5c952b1abf0f153237cf59f58c997fc1f8e64463660e343fb7c88816fae42633>
 
 [durable_objects]
  bindings = [
